@@ -1,7 +1,7 @@
-# Maya_PBRTXT_Import
+# Maya_PBRTX_Import
 
 ## Overview
-`Maya_PBRTXT_Import` is a Python script for Autodesk Maya developed with the assistance of Chat GPT. It facilitates the import and automatic setup of PBR (Physically-Based Rendering) textures into Maya, aiming to streamline the shader creation process. This script automates the tedious process of manually connecting texture files to the appropriate shader attributes, making it a handy tool for quick setups in PBR workflows.
+`Maya_PBRTX_Import` is a Python script for Autodesk Maya developed with the assistance of Chat GPT. It facilitates the import and automatic setup of PBR (Physically-Based Rendering) textures into Maya, aiming to streamline the shader creation process. This script automates the tedious process of manually connecting texture files to the appropriate shader attributes, making it a handy tool for quick setups in PBR workflows.
 
 **Note**: This script is not fully developed and should be considered a prototype intended for temporary use. It was developed to demonstrate the capabilities and assist in automating certain tasks within Maya but is not intended for production use without further development and testing.
 
@@ -14,7 +14,7 @@
 - **Color Space Management**: Automatically sets the correct color space for different types of textures to ensure the materials render accurately.
 
 ## Installation
-1. Download the `Maya_PBRTXT_Import.py` file.
+1. Download the `Maya_PBRTX_Import.py` file.
 2. Move the script into your Maya scripts directory.
 
 ## Usage
@@ -30,7 +30,7 @@
 This project is available under the MIT License. See the LICENSE file for more info.
 
 ## Contributing
-Contributions to `Maya_PBRTXT_Import` are welcome! Feel free to fork the repository and submit pull requests.
+Contributions to `Maya_PBRTX_Import` are welcome! Feel free to fork the repository and submit pull requests.
 
 ## Support
 If you encounter any problems or have any suggestions, please open an issue on the GitHub repository page.
