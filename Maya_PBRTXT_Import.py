@@ -160,3 +160,5 @@ def PBRNet_create_ui():
     ])
 
     cmds.showWindow(window)
+
+PBRNet_create_ui();
